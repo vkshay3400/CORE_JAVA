@@ -1,4 +1,4 @@
-package com.corejava.oops.staticpolymorphism;
+package com.corejava.oops.polymorphism.staticpolymorphism;
 
 class TestBird {
     public static void main(String[] args) {

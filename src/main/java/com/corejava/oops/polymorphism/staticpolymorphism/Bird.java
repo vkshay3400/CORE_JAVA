@@ -1,4 +1,4 @@
-package com.corejava.oops.staticpolymorphism;
+package com.corejava.oops.polymorphism.staticpolymorphism;
 
 class Bird {
     public void fly() {

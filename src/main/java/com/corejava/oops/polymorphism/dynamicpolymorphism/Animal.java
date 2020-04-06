@@ -1,4 +1,4 @@
-package com.corejava.oops.dynamicpolymorphism;
+package com.corejava.oops.polymorphism.dynamicpolymorphism;
 
 class Animal {
     public void eat() {
