@@ -1,4 +1,4 @@
-package com.corejava.designpattern.adapterexample.adapter;
+package com.corejava.designpattern.creation.adapter;
 
 import java.util.ArrayList;
 import java.util.List;

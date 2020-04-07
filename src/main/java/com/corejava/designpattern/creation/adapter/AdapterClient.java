@@ -1,9 +1,5 @@
-package com.corejava.designpattern.adapterexample.adapter;
+package com.corejava.designpattern.creation.adapter;
 
-
-import com.corejava.designpattern.adapterexample.adapter.Item;
-import com.corejava.designpattern.adapterexample.adapter.LegacyOMS;
-import com.corejava.designpattern.adapterexample.adapter.Payment;
 
 public class AdapterClient {
     public static void main(String[] args) {

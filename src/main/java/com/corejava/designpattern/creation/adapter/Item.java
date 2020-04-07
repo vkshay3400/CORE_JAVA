@@ -1,4 +1,4 @@
-package com.corejava.designpattern.adapterexample.adapter;
+package com.corejava.designpattern.creation.adapter;
 
 public class Item {
     private String name;
