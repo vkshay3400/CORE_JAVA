@@ -1,4 +1,4 @@
-package com.corejava.designpattern.creation.adapter;
+package com.corejava.designpattern.structural.adapter;
 
 
 public class AdapterClient {

@@ -1,4 +1,4 @@
-package com.corejava.designpattern.creation.adapter;
+package com.corejava.designpattern.structural.adapter;
 
 import java.util.ArrayList;
 import java.util.List;
