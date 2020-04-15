@@ -3,18 +3,18 @@ package com.corejava.designpattern.creation.abstractfactory.factoryimplementatio
 import com.corejava.designpattern.creation.abstractfactory.abstractfactory.Factory;
 import com.corejava.designpattern.creation.abstractfactory.elementinterface.Engine;
 import com.corejava.designpattern.creation.abstractfactory.elementinterface.Tyre;
-import com.corejava.designpattern.creation.abstractfactory.setofimplementation.CarEngine;
-import com.corejava.designpattern.creation.abstractfactory.setofimplementation.CarTyre;
+import com.corejava.designpattern.creation.abstractfactory.setofimplementation.TruckEngine;
+import com.corejava.designpattern.creation.abstractfactory.setofimplementation.TruckTyre;
 
-public class CarFactory extends Factory {
+public class TruckFactory extends Factory {
 
     @Override
     public Engine getEngine() {
-        return new CarEngine();
+        return new TruckEngine();
     }
 
     @Override
     public Tyre getTyre() {
-        return new CarTyre();
+        return new TruckTyre();
     }
 }
